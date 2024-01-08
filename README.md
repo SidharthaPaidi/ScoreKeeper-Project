@@ -4,7 +4,7 @@ Welcome to the Score Keeper project repository! This project is a simple Ping Po
 
 ## Project Preview 🖥️
 
-![Score Keeper Preview]([Screenshot 2024-01-08 203957.png](https://github.com/mandartule/Project-Score_Keeper/assets/105853152/607c8822-e8d9-4142-a34d-186a4ef3066d))
+![Score Keeper Preview](https://github.com/mandartule/Project-Score_Keeper/assets/105853152/607c8822-e8d9-4142-a34d-186a4ef3066d)
 
 
 ## Features ✨

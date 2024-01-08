@@ -22,7 +22,7 @@ Welcome to the Score Keeper project repository! This project is a simple Ping Po
 
 ## Live Demo 🚀
 
-Check out the live demo of the Score Keeper app: [Score Keeper Live Demo](https://mandartule.github.io/Project-Score_Keeper/)
+Check out the live demo of the Score Keeper app: [Score Keeper Live Demo]( https://sidharthapaidi.github.io/ScoreKeeper-Project/)
 
 ## Technologies Used 🛠️
 
